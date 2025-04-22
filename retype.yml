@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: docs.berloc.it
+branding:
+  title: BerLOC
+  label: Docs
+links:
+  - text: Benvenuto
+    link: https://docs.berloc.it/
+footer:
+  copyright: "BerLOC &copy; Copyright {{ year }}. All rights reserved."
