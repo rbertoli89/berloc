@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: docs.berloc.it
+visibility: protected
 branding:
   title: BerLOC
   label: Docs
