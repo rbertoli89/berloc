@@ -12,5 +12,6 @@ All'interno del sito troverete informazioni sui seguenti argomenti:
 
 - Network
 - Server Linux
+- Server Windows
 - Docker
 - Retype
