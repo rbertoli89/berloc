@@ -2,7 +2,7 @@
 icon: home-fill
 tags: [guide]
 ---
-#Benvenuto
+# Benvenuto
 
 Qui raccolgo tutti i tips e le raccomandazioni per eseguire sempre un lavoro ad hoc, in ogni occasione.
 
