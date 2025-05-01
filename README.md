@@ -11,8 +11,12 @@ Il sito web è stato strutturato grazie al fantastico tool [ReType](https://rety
 All'interno del sito troverete informazioni sui seguenti argomenti:
 
 - Network
+- Wireless
+- Keenetic Devices
 - Server Linux
 - Server Windows
+- VMWare
+- Proxmox
 - Docker
 - Retype
 
